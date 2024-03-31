@@ -1,0 +1,23 @@
+.incrementBtn {
+  background-color: rgb(167, 49, 151);
+  padding: 4px 6px;
+  border: 1px solid black;
+}
+.value {
+  font-size: 28px;
+}
+
+.links {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+}
+.flagSk {
+  width: 200px;
+  padding: 10px;
+  background-color: rgba(120, 14, 101, 0.25);
+}
+.iconCash {
+  color: rgb(202, 118, 147);
+}
